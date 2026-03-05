@@ -112,9 +112,13 @@
     - Bài tập 13 (Web Notion): Quản lý dữ liệu.
 - Buổi 31 (05/02): Lớp lồng nhau (p1).
     - Bài 2.20: Lớp lồng nhau (p1).
-- Buổi 32 (03/03): Ôn tập.
+- Buổi 32 (03/03): Ôn tập (p1).
     - Chủ đề: Bốn tính chất trong OOP.
     - Chủ đề: Interface trong OOP.
+- Buổi 33 (05/03): Ôn tập (p2), Lớp lồng nhau (p2).
+    - Chủ đề: Tham số kiểu.
+    - Chủ đề: Lớp lồng nhau.
+    - Bài 2.21: Cú pháp lambda và method reference.
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
