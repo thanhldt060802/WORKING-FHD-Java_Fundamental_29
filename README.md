@@ -113,15 +113,18 @@
 - Buổi 31 (05/02): Lớp lồng nhau (p1).
     - Bài 2.20: Lớp lồng nhau (p1).
 - Buổi 32 (03/03): Ôn tập (p1).
-    - Chủ đề: Bốn tính chất trong OOP.
-    - Chủ đề: Interface trong OOP.
+    - Ôn tập: Bốn tính chất trong OOP.
+    - Ôn tập: Interface trong OOP.
 - Buổi 33 (05/03): Ôn tập (p2), Lớp lồng nhau (p2).
-    - Chủ đề: Tham số kiểu.
-    - Chủ đề: Lớp lồng nhau.
+    - Ôn tập: Tham số kiểu.
+    - Ôn tập: Lớp lồng nhau.
     - Bài 2.21: Cú pháp lambda và method reference.
 - Buổi 34 (10/03): Collection framework (p1).
     - Bài 2.22: Tổng quan về Collection framework.
-    - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện List.
+    - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện List (p1).
+- Buổi 35 (12/03): Collection framework (p2).
+    - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện List (p2).
+    - Bài 2.24: Cách dùng các cấu trúc thuộc giao diện Queue.
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
