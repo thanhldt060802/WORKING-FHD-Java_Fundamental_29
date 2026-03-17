@@ -125,7 +125,7 @@
 - Buổi 35 (12/03): Collection framework (p2).
     - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện List (p2).
     - Bài 2.24: Cách dùng các cấu trúc thuộc giao diện Queue.
-- Buổi 36 (17/03): Collection framework (p3).
+- Buổi 36 (17/03): Collection framework (p3), Ôn tập.
     - Bài 2.23: Cách dùng các cấu trúc thuộc giao diện Set.
     - Bài 2.24: Cách dùng các cấu trúc thuộc giao diện Map.
     - Ôn tập: Interface trong OOP.
