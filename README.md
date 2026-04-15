@@ -3,7 +3,7 @@
 
 # 1. Nội quy
 
-- Vào đúng giờ để check in, check out trước khi ra khỏi lớp (nếu xin phép nghỉ sớm cũng phải check out).
+- Vào đúng giờ học, nghỉ học phải xin phép, các trường hợp nghỉ không phép sẽ bị xử lý nặng.
 - Mở camera trong quá trình tham gia buổi học.
 - Trao đổi với giáo viên khi gặp khuất mắt.
 
