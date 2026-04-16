@@ -148,6 +148,10 @@
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
+- Buổi 44 (16/04): Cơ bản về MySQL.
+    - Bài 3.1: Kiểu dữ liệu trong MySQL và các cú pháp cơ bản.
+    - Bài 3.2: Các thao tác dữ liệu cơ bản.
+
 ## 4.4. Tương tác với hệ cơ sở dữ liệu MySQL bằng JDBC ([LINK](https://local-tip-3d2.notion.site/4-MySQL-JDBC-2efe3c27ef3780f78364cc1dca338e48))
 
 # 5. Bài tập
